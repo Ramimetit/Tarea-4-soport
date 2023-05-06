@@ -1,0 +1,14 @@
+.bit{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace
+}
+.logo{
+   display: flex;
+   height: 70px;
+}
+body{
+    background-color:rgb(214, 179, 179);
+}
+.text{
+    font-size: 30px;
+}
